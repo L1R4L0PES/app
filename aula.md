@@ -14,6 +14,9 @@
 *value: valor
 *checked: boolean/checar(verdadeiro ou falso)
 
+## Condicionais
+-switch
+-if/else
 
 ## Tipos de dados
 
@@ -29,6 +32,7 @@ Constantes
 ## Operadores
 Operadores de atribuição de valor: = / =>
 Operador concatenação: +
+Operadores de comparação: ==/!=/< >/<=/=>
 
 ## Estrutura de dados:
 
