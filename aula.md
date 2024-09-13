@@ -33,11 +33,13 @@ Constantes
 Operadores de atribuição de valor: = / =>
 Operador concatenação: +
 Operadores de comparação: ==/!=/< >/<=/=>
+...Spread Operator
 
 ## Estrutura de dados:
 
 ## Arrays:
 Uma lista que contém qualquer tipo de dado
+Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ## Objetos:
 
