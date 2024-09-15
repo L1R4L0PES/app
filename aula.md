@@ -54,6 +54,13 @@ Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 - Importação de módulos (require, CommonJS)
 - Biblioteca 'inquirer' para criar prompts interativos
+- FS (file system)
+
+## JSON
+
+- Javascript Object Notation (.json)
+- JSON.parse(): transforma de JSON para JS
+- JSON.stringify(): transforma de JS para JSON
 
 ## Programação assíncrona e Promises:
 
